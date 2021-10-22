@@ -1,0 +1,5 @@
+train: ../Mushrooms/train/images
+val: ../Mushrooms/valid/images
+
+nc: 2
+names: ['CoW', 'chanterelle']
