@@ -26,15 +26,15 @@ YOLOV5实战
 
 预测输入图像：
 
-![in1](./in1.png)
+![in1](./in1.jpg)
 
-![in2](./in2.png)
+![in2](./in2.jpg)
 
 预测结果：
 
-![out1](./out1.png)
+![out1](./out1.jpg)
 
-![out2](./out2.png)
+![out2](./out2.jpg)
 
 可以看出预测结果还是不错的！
 
